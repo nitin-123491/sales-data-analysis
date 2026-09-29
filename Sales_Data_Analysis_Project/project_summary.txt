@@ -1,0 +1,15 @@
+Dataset summary
+---------------
+Orders: 250
+Total Sales: ₹16,190,043.06
+Total Profit: ₹1,896,876.97
+Total Quantity: 1,004
+Average Order Value: ₹64,760.17
+
+Top 5 products by sales:
+Product
+Laptop        6374870.59
+Smartphone    3757869.86
+Tablet        2036899.83
+Printer       1884693.34
+Monitor       1421930.63
